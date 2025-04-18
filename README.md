@@ -2,8 +2,7 @@
 
 A simple and elegant weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data using the OpenWeatherMap API and displays current weather conditions for any searched city.
 
-## 🌐 Live Demo
-[Click here to try the app](#)
+
 
 ## 🔧 Technologies Used
 - HTML5
